@@ -96,9 +96,7 @@ experiences:
           - Load Test – Stress Test – CPU & Memory Profile & Optimization
           - Reliability engineering and DevOps (Windows and Linux)
           - REST Services and Messaging using RabbitMQ
-          
-       Tools & Technology:
-          - C#, ASP.NET MVC, Java, ASP.NET Core, JQuery, Anqular.js, Bootstrap, RabbitMQ, Redis, SQL Server, Grinder, MS VS Performance Test, DDD, Scrum, Digital Signature Standard(DSS), PKCS7, PKCS11, USB Token, and HSM
+          - Tools & Technology: C#, ASP.NET MVC, Java, ASP.NET Core, JQuery, Anqular.js, Bootstrap, RabbitMQ, Redis, SQL Server, Grinder, MS VS Performance Test, DDD, Scrum, Digital Signature Standard(DSS), PKCS7, PKCS11, USB Token, and HSM
 
     - role: UI Developer
       time: 2012 - 2014
