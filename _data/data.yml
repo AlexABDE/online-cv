@@ -7,41 +7,38 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Alireza Abdelahi
+    tagline: Senior Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: abdelahi@gmail.com
+    phone: +98 933 191 4334
+    website: alexabde.blogspot.com/ #do not add http://
+    linkedin: alireza-abdelahi
+    github: AlexABDE
+    gitlab: abdeahi
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@AlexABD10'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Farsi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Photography
         link:
 
-      - item: Cooking
+      - item: Swimming
         link:
 
 career-profile:
@@ -83,19 +80,20 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Software Engineer
+      time: 2015 March - Present
+      company: Securities and Exchange Organization of Iran (Rayan Bourse Co)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I have worked on the Codal project, which is a web application and services to collect, import, analyze, and publish company financial statements for the public (like US Edgar). I have been in charge of the project's most crucial problem, such as performance optimization and refactoring legacy projects, Workflow Engines, PKI Enabling, Security improvements, and cutting-edge technology developments. 
+	  Duties:
+        - Design, develop and implementation of New Software Framework architecture(NFiler)
+        - Rearchitecting  and refactoring existing legacy projects
+	  Tools & Technology:
+        C#, ASP.NET MVC, Java, ASP.NET Core, JQuery, Anqular.js, Bootstrap, RabbitMQ, Redis, SQL Server, Grinder, MS VS Performance Test, DDD, Scrum, Digital Signature Standard(DSS), PKCS7, PKCS11, USB Token, and HSM
+      Project Links:
+        - www.codal.ir
+        - filer.codal.ir 
+
 
           - Bullet point
           - Bullet point
