@@ -81,24 +81,6 @@ education:
 
 experiences:
     - role: Senior Software Engineer
-      time: 2015 March - Present
-      company: Securities and Exchange Organization of Iran (Rayan Bourse Co)
-      details: |
-        I have worked on the Codal project, which is a web application and services to collect, import, analyze, and publish company financial statements for the public (like US Edgar). I have been in charge of the project's most crucial problem, such as performance optimization and refactoring legacy projects, Workflow Engines, PKI Enabling, Security improvements, and cutting-edge technology developments. 
-	  Duties:
-        - Design, develop and implementation of New Software Framework architecture(NFiler)
-        - Rearchitecting  and refactoring existing legacy projects
-	  Tools & Technology:
-        C#, ASP.NET MVC, Java, ASP.NET Core, JQuery, Anqular.js, Bootstrap, RabbitMQ, Redis, SQL Server, Grinder, MS VS Performance Test, DDD, Scrum, Digital Signature Standard(DSS), PKCS7, PKCS11, USB Token, and HSM
-      Project Links:
-        - www.codal.ir
-        - filer.codal.ir 
-
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
