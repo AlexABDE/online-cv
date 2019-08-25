@@ -86,8 +86,19 @@ experiences:
         I have worked on the Codal project, which is a web application and services to collect, import, analyze, and publish company financial statements for the public (like US Edgar). I have been in charge of the project's most crucial problem, such as performance optimization and refactoring legacy projects, Workflow Engines, PKI Enabling, Security improvements, and cutting-edge technology developments. 
         Duties include:
 
-          - Design, develop and implementation of New Software Framework architecture(Filer Plus)
+          - Design, develop and implementation of new software architecture
           - Rearchitecting  and refactoring existing legacy projects
+          - Design, develop and Implementation Complex 2 Layer Cache Using Redis
+          - Design, develop and implementation Public Key Infrastructure (PKI) 
+          - Design, develop and implementation Workflow Engine base on BPMN Model
+          - Design, develop And implementation Security Layer for Web Application
+          - Test, analyze and optimize web application performance 
+          - Load Test – Stress Test – CPU & Memory Profile & Optimization
+          - Reliability engineering and DevOps (Windows and Linux)
+          - REST Services and Messaging using RabbitMQ
+          
+       Tools & Technology:
+          - C#, ASP.NET MVC, Java, ASP.NET Core, JQuery, Anqular.js, Bootstrap, RabbitMQ, Redis, SQL Server, Grinder, MS VS Performance Test, DDD, Scrum, Digital Signature Standard(DSS), PKCS7, PKCS11, USB Token, and HSM
 
     - role: UI Developer
       time: 2012 - 2014
