@@ -29,8 +29,11 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
-
+        level: Fluent
+      
+      - idiom: German
+        level: Beginner
+        
     interests:
       - item: Climbing
         link:
