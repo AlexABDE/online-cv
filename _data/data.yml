@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -52,31 +52,23 @@ career-profile:
       Site Reliability Engineering to ensure reach projects SLO.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Computer Engineering - Software
+      university: Azad University of Najafabad
+      time: 2005 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I graduated from Azad uniiversiy of najafabad with GPA 14.5 (out of 20). 
 
-          - Bullet point
-          - Bullet point
+          - Teacher Assitant ( Oprating System Lab)
+          - Seminars
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: As in Applied Scientific Computer Software
+      university: University of Science & culture
+      time: 2003 - 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I graduated from University of Science & culture
 
-          - Bullet point
-          - Bullet point
+          - Project: Digital library, Library kiosk App
+          - Teacher Assitant (Computer Lab)
 
 experiences:
     - role: Senior Software Engineer
