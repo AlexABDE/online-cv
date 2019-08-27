@@ -175,7 +175,19 @@ skills:
         level: 60%
 
       - name: React
-        level: 100%               
+        level: 100%
+        
+      - name: Linux (RedHat, CentOS)
+        level: 75%
+        
+      - name: Docker
+        level: 90%
+        
+      - name: Kubernetes
+        level: 70% 
+        
+      - name: ELK
+        level: 50% 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
