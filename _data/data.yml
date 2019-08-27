@@ -93,18 +93,15 @@ experiences:
           - REST Services and Messaging using RabbitMQ
           - Tools & Technology: C#, ASP.NET MVC, Java, ASP.NET Core, JQuery, Anqular.js, Bootstrap, RabbitMQ, Redis, SQL Server, Grinder, MS VS Performance Test, DDD, Scrum, Digital Signature Standard(DSS), PKCS7, PKCS11, USB Token, and HSM
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Beckend Developer 
+      time: 2018 - Present (Part Time)
+      company: Startup, Tehran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Design and implement a highly scalable backend for a GPS tracking device which is used in Vehicle Tracker.
 
-          - Bullet point
-          - Bullet point
+          - Design, develop and implementation web platform Frontend and Backend
+          - Site Reliability Engineering & DevOps
+          - ASP.NET Core, Go, ElasticSearch, Cassandra, Kafka, Redis, Docker, Kubernetes, ELK, Microservice Architecture, GitLab CI/CD, AWS
 
 projects:
     title: Projects
