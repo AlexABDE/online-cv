@@ -144,9 +144,15 @@ skills:
       - name: C#
         level: 98%
         
+      - name: ASP.NET Core
+        level: 97%
+        
       - name: Java
         level: 97%
-
+        
+      - name: Spring Framwork
+        level: 97%
+        
       - name: Go
         level: 80%
         
@@ -166,10 +172,52 @@ skills:
         level: 90%
 
       - name: Node.js
-        level: 70%
+        level: 60%
 
       - name: React
         level: 70%
+        
+      - name: Linux (RedHat, CentOS), 
+        level: 75%
+        
+      - name: Docker
+        level: 90%
+        
+      - name: Kubernetes
+        level: 70% 
+        
+      - name: ELK
+        level: 50% 
+        
+      - name: , JUnit, Mockito, NUnit, xUnit, Moq
+        level: 90% 
+        
+      - name: IIS, Apache, Nginx
+        level: 90% 
+        
+      - name: CI/CD
+        level: 95%         
+        
+      - name: Jenkins
+        level: 80%
+        
+      - name: GitLab CI/CD
+        level: 90%
+        
+      - name: Git
+        level: 95%        
+        
+      - name: AWS
+        level: 70%
+        
+      - name: Google Cloud
+        level: 60%
+        
+      - name: Azure
+        level: 60%
+        
+      - name: Kafka
+        level: 70%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
